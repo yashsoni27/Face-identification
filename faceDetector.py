@@ -25,8 +25,6 @@ while True:
         if(conf<50):
             if(Id == 1):
                 Id = "Yash"
-            elif(Id == 2):
-                Id == "Anmol"
             
         else:
             Id = "Unknown"
